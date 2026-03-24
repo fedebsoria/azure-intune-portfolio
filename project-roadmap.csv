@@ -1,0 +1,13 @@
+﻿Phase,Task,Week,Tools,TFG Value
+Phase 1: Setup,Create GitHub repo + structure,1,GitHub,Organization and structure
+Phase 1: Setup,Initial documentation + diagrams,2,Draw.io / Lucidchart (free),Analysis and design
+Phase 2: Infrastructure,Virtual Network + subnets (Azure),4,Azure Portal + Terraform,Infrastructure implementation
+Phase 2: Infrastructure,Storage Account + VMs (Azure),5,Azure Portal + Terraform,Infrastructure implementation
+Phase 2: Infrastructure,Replicate everything with Terraform,6,Terraform + Azure,IaC and automation
+Phase 3: Automation,GitHub Actions: CI/CD pipeline,7,GitHub Actions + Azure,CI/CD and DevOps
+Phase 3: Automation,Azure Monitor + alerts,10,Azure Monitor,Monitoring
+Phase 3: Automation,Backup and Recovery policies,11,Azure Backup,Disaster recovery
+Phase 4: Intune & Mgmt,Configure Intune MDM,3,Intune Admin Center,Device management
+Phase 4: Intune & Mgmt,Device compliance policies,9,Intune compliance,Security and compliance
+Phase 5: Documentation,Complete README with architecture,14,Markdown + GitHub,Technical documentation
+Phase 5: Documentation,TFG presentation + final tests,16,PowerPoint/LibreOffice,Final presentation

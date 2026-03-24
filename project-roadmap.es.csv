@@ -1,0 +1,13 @@
+﻿Fase,Tarea,Semana,Herramientas,Valor TFG
+Fase 1: Setup,Crear repos GitHub + estructura,1,GitHub,Organización y estructura
+Fase 1: Setup,Documentación inicial + diagramas,2,Draw.io / Lucidchart (gratis),Análisis y diseño
+Fase 2: Infraestructura,Red Virtual + subredes (Azure),4,Azure Portal + Terraform,Implementación infraestructura
+Fase 2: Infraestructura,Storage Account + VMs (Azure),5,Azure Portal + Terraform,Implementación infraestructura
+Fase 2: Infraestructura,Replicar todo con Terraform,6,Terraform + Azure,IaC y automatización
+Fase 3: Automatización,GitHub Actions: CI/CD pipeline,7,GitHub Actions + Azure,CI/CD y DevOps
+Fase 3: Automatización,Azure Monitor + alertas,10,Azure Monitor,Monitorización
+Fase 3: Automatización,Backup y Recovery policies,11,Azure Backup,Disaster recovery
+Fase 4: Intune & Mgmt,Configurar Intune MDM,3,Intune Admin Center,Gestión dispositivos
+Fase 4: Intune & Mgmt,Device compliance policies,9,Intune compliance,Seguridad y compliance
+Fase 5: Documentación,README completo con arquitectura,14,Markdown + GitHub,Documentación técnica
+Fase 5: Documentación,Presentación TFG + pruebas finales,16,PowerPoint/LibreOffice,Presentación final
